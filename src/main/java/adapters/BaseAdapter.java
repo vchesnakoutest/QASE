@@ -7,7 +7,7 @@ import static io.restassured.RestAssured.given;
 
 public class BaseAdapter {
 
-    private static final String TOKEN = "70c308e9c09568164087e115ad6d245daeec9f57";
+    private static final String TOKEN = "";
     private static final String BASE_URL = "https://api.qase.io/v1";
     Gson converter = new Gson();
 
